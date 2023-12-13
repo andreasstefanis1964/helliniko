@@ -1669,6 +1669,9 @@ strong {
   position: absolute;
   top: 0;
 }
+.cid-tYgu63StgR .main-title {
+  color: #436cb2;
+}
 .cid-tYl7bR1YIm {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2254,4 +2257,24 @@ strong {
   height: 100%;
   position: absolute;
   top: 0;
+}
+#custom-html-p {
+  /* Type valid CSS here */
+}
+#custom-html-p div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-p p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-tYlYlt92Sm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-tYlYlt92Sm .mbr-text {
+  color: #e3ebf3;
 }
