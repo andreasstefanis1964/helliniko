@@ -923,7 +923,9 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Welcome in Helliniko Hotel &amp; Studios in Paros island.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://ibe.channex.io/online-booking-helliniko-hotel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK ONLINE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://ibe.channex.io/online-booking-helliniko-hotel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK ONLINE</a> ",
+                "overlayOpacity": "0.3",
+                "overlayColor": "#e1f5fa"
               }
             ]
           }
