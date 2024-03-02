@@ -907,7 +907,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/helliniko-studios-1200x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/707084293-790x530.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -924,7 +924,7 @@
                 "contentAlign": "right",
                 "text": "Welcome in Helliniko Hotel &amp; Studios in Paros island.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://ibe.channex.io/online-booking-helliniko-hotel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK ONLINE</a> ",
-                "overlayOpacity": "0.3",
+                "overlayOpacity": "0.1",
                 "overlayColor": "#e1f5fa"
               }
             ]
