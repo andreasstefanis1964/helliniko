@@ -53,7 +53,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-new-helliniko-hotel-128x121.png",
-    "mbrsiteDomain": "nlocxoqfms",
+    "mbrsiteDomain": "iwhr5rhhmc",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -66,7 +66,7 @@
       "currency": "USD"
     },
     "uniqCompNum": 26,
-    "versionPublish": "5.9.11",
+    "versionPublish": "6.1.11",
     "screenshot": "screenshot.png",
     "publishChangesOnly": false
   },
@@ -907,7 +907,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/707084293-790x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/helliniko-hotel-frontview.webp",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
