@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "homem5",
       "title": "HomeM5",
@@ -66,7 +66,7 @@
       "currency": "USD"
     },
     "uniqCompNum": 38,
-    "versionPublish": "6.1.12",
+    "versionPublish": "6.1.16",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true
   },
